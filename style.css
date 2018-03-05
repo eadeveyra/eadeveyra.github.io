@@ -3,10 +3,11 @@ body{
 }
 
 .header{
+  font-family:Trajan Pro;
+  font-size:20px;
+  letter-spacing:8px;
   text-align:center;
   color:white;
-  font-family: Trajan Pro;
-  letter-spacing:50px;
   background-color:black;
   width:100%;
   top:0%;
