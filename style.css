@@ -12,7 +12,8 @@ body{
   background-color:black;
   width:100%;
   top:0%;
-  position:fixed
+  position:fixed;
+  left:0%;
 }
 
 .hover{
