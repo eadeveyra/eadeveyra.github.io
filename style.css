@@ -3,7 +3,11 @@ body{
 }
 
 .header{
- background-color:black;
+  text-align:center;
+  color:white;
+  font-family: Trajan Pro;
+  letter-spacing:50px;
+  background-color:black;
   width:100%;
   top:0%;
   position:fixed
