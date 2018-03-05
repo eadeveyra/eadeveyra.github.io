@@ -1,0 +1,32 @@
+body {
+  background-color: white;
+    text-align:center;
+}
+
+.header{
+  background-color: #000000;
+  color:white;
+  font-family:Trajan Pro;
+  font-size:20px;
+  letter-spacing:8px;
+  position:fixed;
+  width:100%;
+  top:0;
+
+}
+
+.boxleft{
+  margin-top:130px;
+ background-color:#d6d6d6;
+  margin-left:50%;
+  margin-right:10%;
+  margin-bottom:20px;
+  text-align:justify;
+  padding:60px;
+  font-size:12px;
+}
+
+.boximageright{
+  
+ 
+}
