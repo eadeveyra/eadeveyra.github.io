@@ -14,6 +14,7 @@ body{
   top:0%;
   position:fixed;
   left:0%;
+  padding-bottom:10px;
 }
 
 .hover{
@@ -25,4 +26,11 @@ body{
   font-family:Trajan Pro;
   letter-spacing:8px;  
   font-size:10px;  
+  padding-bottom:3px;
+}
+
+.box1{
+margin-left:50%;
+margin:top:10;
+
 }
