@@ -1,36 +1,165 @@
 body{
+
   background-color:white;
+
     font-family:Arial;
+font-size:12px;
 }
 
-.header{
-  font-family:Trajan Pro;
-  font-size:13px;
-  letter-spacing:8px;
-  text-align:center;
-  color:white;
-  background-color:black;
-  width:100%;
-  top:0%;
-  position:fixed;
-  left:0%;
-  padding-bottom:10px;
+
+
+.cover{
+ position:relative;
+ top:100px;
+ left:250px;
 }
 
 .hover{
   text-align:center;
-  width:300px;
+
+  width:200px;
+
   padding-top:5px;
+
   background-color:black;
+
   color:white;
+
   font-family:Trajan Pro;
-  letter-spacing:8px;  
-  font-size:10px;  
+
+  letter-spacing:8px;
+  
+  font-size:10px;
+    margin-left:8%;
+  
   padding-bottom:3px;
+
 }
 
-.box1{
-margin-left:50%;
-margin-top:12%;
-background-color:#f9f9f9;
+
+.hover2{
+  text-align:center;
+
+  width:400px;
+
+  padding-top:12px;
+  background-color:black;
+
+  color:white;
+
+  font-family:Trajan Pro;
+
+  letter-spacing:8px;
+  
+  font-size:10px;
+    margin-left:200px;
+  
+  padding-bottom:12px;
+
 }
+
+
+
+.hover3{
+ text-align:center;
+
+  width:260px;
+
+  padding-top:12px;
+  background-color:black;
+
+  color:white;
+
+  font-family:Trajan Pro;
+
+  letter-spacing:8px;
+  
+  font-size:10px;
+    margin-left:-30px;
+  
+  padding-bottom:12px;
+
+}
+
+
+
+
+.box1{
+position:absolute;
+left:980px;
+
+ top:120px;
+background-color:#e8e8e8;
+
+}
+
+
+.box2{
+position:absolute;
+left:450px;
+
+ top:350px;
+width:770px;
+height:300px;
+background-color:#bababa;
+
+}
+
+.box2in1{
+position:absolute;
+left:100px;
+}
+
+.box2in2{
+position:relative;
+left:400px;
+}
+
+.box3{
+position:absolute;
+ top:350px;
+ left:250px;
+width:180px;
+height:300px;
+background-color:#262626;
+
+}
+
+.box4{
+position:absolute;
+ top:670px;
+ left:250px;
+width:870px;
+height:200px;
+padding-left:100px;
+
+background-color:#e8e8e8;
+
+}
+
+.header{
+  
+font-family:Trajan Pro;
+
+  font-size:11px;
+
+  letter-spacing:8px;
+
+  text-align:center;
+
+  color:white;
+
+  background-color:black;
+
+  width:100%;
+
+  top:0%;
+
+  position:fixed;
+
+  left:0%;
+
+  padding-bottom:10px;
+
+}
+
