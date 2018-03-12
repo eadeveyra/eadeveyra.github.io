@@ -92,6 +92,10 @@ background-color:#e8e8e8;
 width:240px;
 }
 
+.box1text{position:relative; 
+left:-10px;
+}
+
 
 .box2{
 position:absolute;
